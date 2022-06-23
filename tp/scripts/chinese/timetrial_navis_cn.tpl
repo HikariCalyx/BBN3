@@ -6,7 +6,7 @@ script 17 mmbn3 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Take the challenge?\n"
+	"接受挑战吗? \n"
 	option
 		left = 1
 		right = 1
@@ -14,7 +14,7 @@ script 17 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"是"
 	option
 		left = 0
 		right = 0
@@ -22,7 +22,7 @@ script 17 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"否"
 	select
 		default = 0
 		disableB = false
@@ -69,8 +69,8 @@ script 21 mmbn3 {
 	textSpeed
 		delay = 0
 	"""
-	Well done!
-	You set a new record!
+	干得好!
+	你创造了新纪录!
 	"""
 	keyWait
 	clearMsg
@@ -85,7 +85,7 @@ script 22 mmbn3 {
 	textSpeed
 		delay = 0
 	"""
-	Play again?
+	要再来一局吗?
 	
 	"""
 	option
@@ -95,7 +95,7 @@ script 22 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"是"
 	option
 		left = 0
 		right = 0
@@ -103,7 +103,7 @@ script 22 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"否"
 	select
 		default = 0
 		disableB = false
@@ -123,7 +123,7 @@ script 23 mmbn3 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"Come back any time."
+	"随时都可以来挑战。"
 	keyWait
 	end
 }
@@ -134,9 +134,8 @@ script 1 mmbn3 {
 		mugshot = FlashMan
 	msgOpen
 	"""
-	A copy of FlashMan
-	is available for a
-	timed battle!
+	闪光人的对战镜像
+	已准备就绪。
 	"""
 	keyWait
 	clearMsg
@@ -148,9 +147,8 @@ script 2 mmbn3 {
 		mugshot = BeastMan
 	msgOpen
 	"""
-	A copy of BeastMan
-	is available for a
-	timed battle!
+	野兽人的对战镜像
+	已准备就绪。
 	"""
 	keyWait
 	clearMsg
@@ -162,9 +160,8 @@ script 3 mmbn3 {
 		mugshot = BubbleMan
 	msgOpen
 	"""
-	A copy of BubbleMan
-	is available for a
-	timed battle!
+	泡泡人的对战镜像
+	已准备就绪。
 	"""
 	keyWait
 	clearMsg
@@ -176,9 +173,8 @@ script 4 mmbn3 {
 		mugshot = DesertMan
 	msgOpen
 	"""
-	A copy of DesertMan
-	is available for a
-	timed battle!
+	沙漠人的对战镜像
+	已准备就绪。
 	"""
 	keyWait
 	clearMsg
@@ -190,9 +186,8 @@ script 5 mmbn3 {
 		mugshot = PlantMan
 	msgOpen
 	"""
-	A copy of PlantMan
-	is available for a
-	timed battle!
+	旋花人的对战镜像
+	已准备就绪。
 	"""
 	keyWait
 	clearMsg
@@ -204,9 +199,8 @@ script 6 mmbn3 {
 		mugshot = FlameMan
 	msgOpen
 	"""
-	A copy of FlamMan
-	is available for a
-	timed battle!
+	烈焰人的对战镜像
+	已准备就绪。
 	"""
 	keyWait
 	clearMsg
@@ -218,9 +212,8 @@ script 7 mmbn3 {
 		mugshot = DrillMan
 	msgOpen
 	"""
-	A copy of DrillMan
-	is available for a
-	timed battle!
+	钻孔人的对战镜像
+	已准备就绪。
 	"""
 	keyWait
 	clearMsg
@@ -232,9 +225,8 @@ script 8 mmbn3 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	A copy of GutsMan
-	is available for a
-	timed battle!
+	气力人的对战镜像
+	已准备就绪。
 	"""
 	keyWait
 	clearMsg
@@ -246,9 +238,8 @@ script 9 mmbn3 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	A copy of MetalMan
-	is available for a
-	timed battle!
+	金属人的对战镜像
+	已准备就绪。
 	"""
 	keyWait
 	clearMsg
@@ -260,9 +251,8 @@ script 10 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	A copy of KingMan
-	is available for a
-	timed battle!
+	国王人的对战镜像
+	已准备就绪。
 	"""
 	keyWait
 	clearMsg
@@ -278,9 +268,8 @@ script 11 mmbn3 {
 		mugshot = MistMan
 	msgOpen
 	"""
-	A copy of MistMan
-	is available for a
-	timed battle!
+	神灯人的对战镜像
+	已准备就绪。
 	"""
 	keyWait
 	clearMsg
@@ -292,9 +281,8 @@ script 12 mmbn3 {
 		mugshot = DarkMan
 	msgOpen
 	"""
-	A copy of DarkMan
-	is available for a
-	timed battle!
+	魔王人的对战镜像
+	已准备就绪。
 	"""
 	keyWait
 	clearMsg
@@ -306,9 +294,8 @@ script 13 mmbn3 {
 		mugshot = JapanMan
 	msgOpen
 	"""
-	A copy of JapanMan
-	is available for a
-	timed battle!
+	大和人的对战镜像
+	已准备就绪。
 	"""
 	keyWait
 	clearMsg
@@ -322,9 +309,8 @@ script 14 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	A copy of Bass
-	is available for a
-	timed battle!
+	佛鲁迪的对战镜像
+	已准备就绪。
 	"""
 	keyWait
 	clearMsg
@@ -337,9 +323,8 @@ script 28 mmbn3 {
 		mugshot = BowlMan
 	msgOpen
 	"""
-	A copy of BowlMan
-	is available for a
-	timed battle!
+	保龄人的对战镜像
+	已准备就绪。
 	"""
 	keyWait
 	clearMsg
