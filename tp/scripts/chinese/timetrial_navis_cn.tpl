@@ -6,7 +6,7 @@ script 17 mmbn3 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"接受挑战吗? \n"
+	"要挑战吗? \n"
 	option
 		left = 1
 		right = 1
@@ -14,7 +14,7 @@ script 17 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"是"
+	"嗯"
 	option
 		left = 0
 		right = 0
@@ -22,7 +22,7 @@ script 17 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"否"
+	"不要"
 	select
 		default = 0
 		disableB = false
@@ -95,7 +95,7 @@ script 22 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"是"
+	"嗯"
 	option
 		left = 0
 		right = 0
@@ -103,7 +103,7 @@ script 22 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"否"
+	"不要"
 	select
 		default = 0
 		disableB = false
