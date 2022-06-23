@@ -2,147 +2,147 @@
 @size 52
 
 script 0 mmbn3s {
-	"NONE"
+	"没有"
 	end
 }
 script 1 mmbn3s {
-	"SprArmor"
+	"超级装甲"
 	end
 }
 script 2 mmbn3s {
-	"BrakBust"
+	"子弹穿甲"
 	end
 }
 script 3 mmbn3s {
-	"BrakChrg"
+	"蓄气穿甲"
 	end
 }
 script 4 mmbn3s {
-	"SetGreen"
+	"预置草地"
 	end
 }
 script 5 mmbn3s {
-	"SetIce"
+	"预置冰地"
 	end
 }
 script 6 mmbn3s {
-	"SetLava"
+	"预置熔岩"
 	end
 }
 script 7 mmbn3s {
-	"SetSand"
+	"预置沙地"
 	end
 }
 script 8 mmbn3s {
-	"SetMetal"
+	"预置钢板"
 	end
 }
 script 9 mmbn3s {
-	"SetHoly"
+	"预置圣域"
 	end
 }
 script 10 mmbn3s {
-	"Custom1"
+	"芯片槽+1"
 	end
 }
 script 11 mmbn3s {
-	"Custom2"
+	"芯片槽+2"
 	end
 }
 script 12 mmbn3s {
-	"MegFldr1"
+	"高级+1"
 	end
 }
 script 13 mmbn3s {
-	"MegFldr2"
+	"高级+2"
 	end
 }
 script 14 mmbn3s {
-	"Block"
+	"格挡"
 	end
 }
 script 15 mmbn3s {
-	"Shield"
+	"护盾"
 	end
 }
 script 16 mmbn3s {
-	"Reflect"
+	"反射盾"
 	end
 }
 script 17 mmbn3s {
-	"ShdwShoe"
+	"幻影鞋"
 	end
 }
 script 18 mmbn3s {
-	"FlotShoe"
+	"浮游鞋"
 	end
 }
 script 19 mmbn3s {
-	"AntiDmg"
+	"替身魔术"
 	end
 }
 script 20 mmbn3s {
-	"Press"
+	"压缩"
 	end
 }
 script 21 mmbn3s {
-	"EngyChng"
+	"能量转换"
 	end
 }
 script 22 mmbn3s {
-	"Alpha"
+	"侦测原型"
 	end
 }
 script 23 mmbn3s {
-	"SneakRun"
+	"潜行"
 	end
 }
 script 24 mmbn3s {
-	"OilBody"
+	"油性身体"
 	end
 }
 script 25 mmbn3s {
-	"Fish"
+	"我是鱼"
 	end
 }
 script 26 mmbn3s {
-	"Battery"
+	"电池模式"
 	end
 }
 script 27 mmbn3s {
-	"Jungle"
+	"丛林乐园"
 	end
 }
 script 28 mmbn3s {
-	"Collect"
+	"芯片猎人"
 	end
 }
 script 29 mmbn3s {
-	"AirShoes"
+	"空气鞋"
 	end
 }
 script 30 mmbn3s {
-	"UnderSht"
+	"紧身衣"
 	end
 }
 script 31 mmbn3s {
-	"FstGauge"
+	"快槽"
 	end
 }
 script 32 mmbn3s {
-	"Rush"
+	"拉修支援"
 	end
 }
 script 33 mmbn3s {
-	"Beat"
+	"比特支援"
 	end
 }
 script 34 mmbn3s {
-	"Tango"
+	"探戈支援"
 	end
 }
 script 35 mmbn3s {
-	"WeapLV+1"
+	"武器+1"
 	end
 }
 script 36 mmbn3s {
@@ -162,50 +162,50 @@ script 39 mmbn3s {
 	end
 }
 script 40 mmbn3s {
-	"Reg+5"
+	"扩容5"
 	end
 }
 script 41 mmbn3s {
-	"Atk+1"
+	"攻击+1"
 	end
 }
 script 42 mmbn3s {
-	"Speed+1"
+	"连射+1"
 	end
 }
 script 43 mmbn3s {
-	"Charge+1"
+	"蓄速+1"
 	end
 }
 script 44 mmbn3s {
-	"BugStop"
+	"BUG终止"
 	end
 }
 script 45 mmbn3s {
-	"Humor"
+	"幽默感"
 	end
 }
 script 46 mmbn3s {
-	"BlckMind"
+	"穷凶极恶"
 	end
 }
 script 47 mmbn3s {
-	"BustrMAX"
+	"火力全开"
 	end
 }
 script 48 mmbn3s {
-	"GigFldr1"
+	"究极+1"
 	end
 }
 script 49 mmbn3s {
-	"HubBatc"
+	"彩斗装甲"
 	end
 }
 script 50 mmbn3s {
-	"DarkLcns"
+	"黑暗执照"
 	end
 }
 script 51 mmbn3s {
-	"  RUN!"
+	"启动!"
 	end
 }
